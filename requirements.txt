@@ -1,0 +1,8 @@
+aiogram==3.*
+python-dotenv
+python-docx
+openpyxl
+pypdf
+striprtf
+odfpy
+google-genai
